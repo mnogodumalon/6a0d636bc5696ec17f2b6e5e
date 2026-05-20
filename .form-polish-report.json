@@ -1,0 +1,10 @@
+{
+  "entities": {
+    "Feier der Zahl 1": {
+      "placeholders_set": 7,
+      "defaults_keys": ["datum_feier", "teilnehmerzahl", "anlass"],
+      "computed_keys": [],
+      "reason": "Reine Stammdaten-Veranstaltungsverwaltung — keine Preisfelder, keine applookup-Targets mit numerischen Daten, keine Date-Paare für Dauern. Teilnehmerzahl ist Kapazität ohne Multiplikator."
+    }
+  }
+}

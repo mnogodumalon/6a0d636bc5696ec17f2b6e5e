@@ -1,0 +1,1 @@
+- Feier der Zahl 1 (feier_der_zahl_1): vorname[string/text], nachname[string/text], datum_feier[date/datetimeminute], ort[string/text], teilnehmerzahl[number], anlass[lookup/select], botschaft[string/textarea], foto[file]

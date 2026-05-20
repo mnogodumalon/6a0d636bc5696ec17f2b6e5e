@@ -1,0 +1,11 @@
+{
+  "FeierDerZahl1Dialog.tsx": {
+    "vorname": "z. B. Max",
+    "nachname": "z. B. Müller",
+    "datum_feier": "Wann findet die Feier statt?",
+    "ort": "z. B. Festsaal, Restaurant",
+    "teilnehmerzahl": "z. B. 20",
+    "botschaft": "Glückwünsche, persönliche Grüße, Wünsche...",
+    "anlass": "Wähle einen Anlass"
+  }
+}
